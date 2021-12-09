@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r4ksh1t0011
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber security, Penetration Testing.
-- 💞️ I’m looking to collaborate on projects related to Information Security
+- 👀 I’m interested in Information Security and Software Development
+- 🌱 I’m currently learning Information security
+- 💞️ I’m looking to collaborate on projects related to Information Security.
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
