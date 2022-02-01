@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r4ksh1t0011
 - 👀 I’m interested in Web Exploitation, Binary Exploitation, Kernel Development and Reverse Engineering
-- 🌱 I’m currently learning Information security
-- 💞️ I’m looking to collaborate on projects related to Information Security.
+- 🌱 I’m currently learning Information security and Game Development
+- 💞️ I’m looking to collaborate on projects related to Information Security and Game Development
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
