@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @r4ksh1t0011
-- 👀 I’m interested in Web Exploitation, Binary Exploitation, Kernel Development and Reverse Engineering
+- 👋 Hi, I’m @sh4dy
+- 👀 I’m interested in Network Security  ,Game Development,Binary Exploitation,  and Reverse Engineering
 - 🌱 I’m currently learning Information security and Game Development
 - 💞️ I’m looking to collaborate on projects related to Information Security and Game Development
 <!--- 📫 How to reach me ... --->
