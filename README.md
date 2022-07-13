@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sh4dy
-- 👀 I’m interested in Information Security  ,Game Development and web development
-- 🌱 I’m currently learning Information security and Game Development
-- 💞️ I’m looking to collaborate on projects related to Information Security and Game Development
+- 👀 I love Information Security and Software Development
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
