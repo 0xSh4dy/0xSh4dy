@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sh4dy
-- 👀 I love Cloud and Software Development
+- 👀 I love Software Development
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
