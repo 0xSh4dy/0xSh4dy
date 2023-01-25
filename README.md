@@ -12,7 +12,8 @@
 r4ksh1t0011/r4ksh1t0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![sh4dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSh4dy&count_private=true&show_icons=true&theme=radical)
+![sh4dy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xSh4dy&count_private=true&show_icons=true&theme=radical)
+
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xsh4dy&theme=react&line_height=40&hide=css"/> </a>
  
 ![](https://komarev.com/ghpvc/?username=0xSh4dy) 
