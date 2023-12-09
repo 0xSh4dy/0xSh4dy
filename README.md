@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sh4dy
-- 👀 I love Reverse Engineering, Blockchain and Binary Exploitation
+- 👀 I love Reverse Engineering, AI, Mathematics and Binary Exploitation
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
