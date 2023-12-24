@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sh4dy
+- 👋 Hi, I’m @sh4dy, a student at IIT Roorkee
 - 👀 I love Reverse Engineering, AI, Mathematics and Binary Exploitation
 <!--- 📫 How to reach me ... --->
 
