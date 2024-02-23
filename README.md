@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![sh4dy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xSh4dy&count_private=true&show_icons=true&theme=radical)
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsh4dy&theme=react&line_height=40&hide=html"/> </a>
+![sh4dy's work](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsh4dy&theme=react&line_height=40&hide=html)
  
 ![](https://komarev.com/ghpvc/?username=0xSh4dy) 
