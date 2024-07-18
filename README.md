@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sh4dy, an alumnus of IIT Roorkee
 - 👀 I love Reverse Engineering, AI, Mathematics and Binary Exploitation
+- CTFs with DeadsecCTF
 <!--- 📫 How to reach me ... --->
 
 ### Languages and Tools
